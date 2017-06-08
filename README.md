@@ -51,6 +51,13 @@ The AWS [region](http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_regi
 
 If not specified, it uploads to the default 'US Standard'
 
+#### options.endpoint
+Type: `String`  
+
+The AWS [endpoint](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Endpoint.html).
+
+If not specified, it uploads to the default endpoint provided by the AWS Javascript SDK.
+
 #### options.maxRetries
 Type: `Integer`
 

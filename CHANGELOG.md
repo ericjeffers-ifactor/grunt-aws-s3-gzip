@@ -1,5 +1,8 @@
 # CHANGELOG
 
+### v0.8.6
+- New option to set endpoint for such use as integrating with minio server.
+
 ### v0.8.5 
 - New option to display changes only
 
